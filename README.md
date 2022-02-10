@@ -17,11 +17,11 @@ Countdown(10, "SEC", LineEnd="\n")
 >>> 00:00:01
 >>> 00:00:00
 
-Your timer is Done! Type:
-"0" To snooze
-"1" To exit
+>>> Your timer is Done! Type:
+>>> "0" To snooze
+>>> "1" To exit
 
->>> 0
+>>> >>> 0
 
 >>> 00:09:00
 ```
